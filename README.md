@@ -91,7 +91,7 @@ text
 Contributions and suggestions are welcome. Please open issues or pull requests for improvements or feature requests.
 
 ## License
-Specify your project license here.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
